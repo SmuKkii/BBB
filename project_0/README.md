@@ -41,13 +41,13 @@
 
 
 ### Результаты:  
-....
+[Результаты в формате ноутбука](https://github.com/SmuKkii/SF_data_science/blob/main/project_0/baseline.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
 ### Выводы:  
-....
+Получилось угадвать число в среднем за 7 попыток
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
